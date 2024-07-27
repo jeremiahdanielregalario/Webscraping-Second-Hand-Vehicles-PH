@@ -33,7 +33,7 @@ EastWest
 **Deadline:** June 24, 2024 (Monday), 6pm
 
 # Task
-## Extract and convert the most recent repossessed car pdf of the corresponding bank assigned to you into a data frame and save it as a parquet file. Expected variables:
+**Extract and convert the most recent repossessed car pdf of the corresponding bank assigned to you into a data frame and save it as a parquet file. Expected variables:**
 Make, Model, Year, Transmission, Body, Price, Location, Mileage, Fuel Type
 Address missing data appropriately (imputation, fill, drop, interpolate, etc.)
 pdf -> dataframe -> .parquet
