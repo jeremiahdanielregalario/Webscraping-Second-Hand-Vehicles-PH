@@ -30,7 +30,7 @@ EastWest
 
 # Deliverables
 **Start:** June 18, 2024
-**Deadline:** June 24, 2024 (Monday), 6pm
+**Deadline:** June 24, 2024 (Monday), 6PM
 
 # Task
 **Extract and convert the most recent repossessed car pdf of the corresponding bank assigned to you into a data frame and save it as a parquet file. Expected variables:**
